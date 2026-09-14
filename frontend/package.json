@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "konva": "^9.3.18",
-    "mini-design-canvas": "file:..",
     "next": "^14.2.24",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
